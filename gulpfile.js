@@ -6,7 +6,7 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 
 var paths = {
-  styles: ['public/assets/css/*.css', 'bower_components/*/*.min.css'],
+  styles: ['public/assets/css/*.css', 'bower_components/*/*.min.css', 'bower_components/bootstrap/dist/css/bootstrap.min.css'],
   scripts: ['public/assets/js/*.js', 'bower_components/jquery/jquery.min.js']
 };
 

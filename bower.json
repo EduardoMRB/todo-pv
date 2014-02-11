@@ -25,6 +25,6 @@
 
   "dependencies": {
     "jquery": "~2.*",
-    "bootstrap": "~2.*"
+    "bootstrap": "*"
   }
 }
