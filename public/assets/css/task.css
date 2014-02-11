@@ -4,3 +4,7 @@
   margin: 7px;
   border: 0;
 }
+
+ul.app-list li {
+  list-style: none;
+}
