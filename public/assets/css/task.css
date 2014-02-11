@@ -1,5 +1,6 @@
-section.app-wrapper {
+  section.app-wrapper {
   width: 20%;
   padding: 7px;
   margin: 7px;
+  border: 0;
 }
